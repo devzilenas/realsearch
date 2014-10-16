@@ -1,0 +1,19 @@
+<reals>
+	<real>
+		<f name="my_real_id">myreal1234</f>
+		<f name="is_active">1</f>
+		<f name="is_sold">0</f>
+		<f name="city">Vilnius</f>
+		<f name="area">60.1</f>
+		<f name="rooms">3</f>
+	</real>
+	<real>
+		<f name="my_real_id">myreal21"</f>
+		<f name="is_active">1</f>
+		<f name="is_sold">1</f>
+		<f name="city">Kaunas</f>
+		<f name="area">60.1</f>
+		<f name="rooms">3</f>
+	</real>
+</reals>
+

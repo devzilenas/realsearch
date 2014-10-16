@@ -1,0 +1,141 @@
+body   {
+		font-family: Georgia, serif;
+		font-size  : 12px}
+input  {font-family: sans-serif}
+img    {border: none;}
+h1, h2 {margin:0; padding:0}
+pre    {margin:0; padding:0}
+
+label  { width:160px; float:left; font-weight:bold}
+
+.meniu {
+	border-top: 1px dotted blue;
+	border-bottom: 1px dotted blue;
+	font-size: 200%;
+}
+
+.flag {
+	border: 1px solid gray;
+}
+
+.inl { display:inline; }
+
+.bl {
+	display:block;
+}
+
+.small {
+	font-size: xx-small;
+}
+
+.larger {
+	font-size: x-large;
+}
+
+.large {
+	font-size: xx-large;
+}
+
+.error   { color: red;}
+.info    { color: DarkOliveGreen;}
+
+#buttons {
+	border-bottom:1px solid;
+	margin-bottom:0.1em}
+#buttons ul li { display:inline}
+#messages { background: LightYellow;}
+#footer {
+	border-top:1px solid;
+	clear:left;
+	bottom:0;
+	width:100%;
+}
+.edit {
+	background-color:#FFFFCC;
+    border:1px solid}
+.error   { color: red;}
+.info    { color: DarkOliveGreen;}
+li.error { list-style:url(../media/img/pabaisiukas.png)}
+.submit { margin:0 0 0 120px}
+
+.mail {
+	background: url(../media/img/mail.png) no-repeat;
+	padding: 0 0 0 16px}
+.zmogelis {
+	background: url(../media/img/zmogelis.png) no-repeat;
+	padding: 0 0 0 16px}
+.password {
+	background: url(../media/img/raktas.png) no-repeat;
+	padding: 0 0 0 16px}
+
+.ddownsel {display:block; color:white; background-color:blue;} 
+.ddown {display:block; color:black; background-color:none} 
+.akey {font-weight:bold} 
+
+/** Real formatting */
+span.real_items {
+	width: 603px;
+}
+
+span.real_item_picture {
+	float:left;
+	padding-right:5px;
+}
+
+span.real_item {
+	float:  left;
+	width:  300px;
+}
+
+div.clear {
+	clear: both;
+}
+
+div.pictures {
+}
+
+span.current_picture {
+	float        : left;
+	padding-right: 5px;
+}
+
+span.pictures_thumbnails {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	width     : 200px ;
+	height    : 400px ;
+	float     : left  ;
+}
+
+span.pictures_thumbnails li {
+	list-style:none;
+}
+
+caption { background-color: Lavender; font-weight: bolder}
+th { background-color: Lavender} 
+tr { background-color: Cornsilk}
+
+.ptr {
+	background-color: Lavender;
+}
+
+.cgD {
+	background-color: SkyBlue;
+	font-weight: bolder;
+}
+
+.cg1 {
+	background-color: Cornsilk;
+}
+
+.cg2 {
+	background-color: Moccasin;
+}
+
+.cg3 {
+	background-color: Orange;
+}
+
+.cg4 {
+	background-color: DarkOrange;
+}

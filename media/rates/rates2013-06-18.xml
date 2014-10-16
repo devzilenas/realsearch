@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExchangeRates>
+  <item>
+    <date>2013.06.18</date>
+    <currency>AED</currency>
+    <quantity>10</quantity>
+    <rate>7.0491</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>AFN</currency>
+    <quantity>100</quantity>
+    <rate>4.6583</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>ALL</currency>
+    <quantity>100</quantity>
+    <rate>2.4461</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>AMD</currency>
+    <quantity>1000</quantity>
+    <rate>6.2538</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>ARS</currency>
+    <quantity>10</quantity>
+    <rate>4.8610</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>AUD</currency>
+    <quantity>1</quantity>
+    <rate>2.4934</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>AZN</currency>
+    <quantity>1</quantity>
+    <rate>3.3032</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BAM</currency>
+    <quantity>1</quantity>
+    <rate>1.7696</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BDT</currency>
+    <quantity>100</quantity>
+    <rate>3.3202</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BGN</currency>
+    <quantity>1</quantity>
+    <rate>1.7653</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BHD</currency>
+    <quantity>1</quantity>
+    <rate>6.8676</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BYR</currency>
+    <quantity>10000</quantity>
+    <rate>2.9738</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BOB</currency>
+    <quantity>10</quantity>
+    <rate>3.6934</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>BRL</currency>
+    <quantity>1</quantity>
+    <rate>1.2214</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>CAD</currency>
+    <quantity>1</quantity>
+    <rate>2.5524</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>CHF</currency>
+    <quantity>1</quantity>
+    <rate>2.8029</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>CLP</currency>
+    <quantity>1000</quantity>
+    <rate>5.2411</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>CNY</currency>
+    <quantity>10</quantity>
+    <rate>4.2315</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>COP</currency>
+    <quantity>1000</quantity>
+    <rate>1.3687</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>CZK</currency>
+    <quantity>10</quantity>
+    <rate>1.3388</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>DJF</currency>
+    <quantity>100</quantity>
+    <rate>1.4799</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>DKK</currency>
+    <quantity>10</quantity>
+    <rate>4.6293</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>DZD</currency>
+    <quantity>100</quantity>
+    <rate>3.2857</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>EGP</currency>
+    <quantity>10</quantity>
+    <rate>3.7023</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>ETB</currency>
+    <quantity>10</quantity>
+    <rate>1.3845</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>EUR</currency>
+    <quantity>1</quantity>
+    <rate>3.4528</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>GBP</currency>
+    <quantity>1</quantity>
+    <rate>4.0678</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>GEL</currency>
+    <quantity>1</quantity>
+    <rate>1.5624</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>GNF</currency>
+    <quantity>10000</quantity>
+    <rate>3.6976</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>HKD</currency>
+    <quantity>10</quantity>
+    <rate>3.3352</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>HRK</currency>
+    <quantity>10</quantity>
+    <rate>4.6253</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>HUF</currency>
+    <quantity>100</quantity>
+    <rate>1.1876</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>IDR</currency>
+    <quantity>10000</quantity>
+    <rate>2.6212</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>YER</currency>
+    <quantity>100</quantity>
+    <rate>1.2012</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>ILS</currency>
+    <quantity>10</quantity>
+    <rate>7.1761</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>INR</currency>
+    <quantity>100</quantity>
+    <rate>4.4840</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>IQD</currency>
+    <quantity>1000</quantity>
+    <rate>2.2281</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>IRR</currency>
+    <quantity>10000</quantity>
+    <rate>2.1086</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>ISK</currency>
+    <quantity>100</quantity>
+    <rate>2.1527</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>JOD</currency>
+    <quantity>1</quantity>
+    <rate>3.6543</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>JPY</currency>
+    <quantity>100</quantity>
+    <rate>2.7260</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>KES</currency>
+    <quantity>100</quantity>
+    <rate>3.0317</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>KGS</currency>
+    <quantity>100</quantity>
+    <rate>5.3493</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>KRW</currency>
+    <quantity>1000</quantity>
+    <rate>2.2981</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>KWD</currency>
+    <quantity>1</quantity>
+    <rate>9.1413</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>KZT</currency>
+    <quantity>100</quantity>
+    <rate>1.7124</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>LBP</currency>
+    <quantity>1000</quantity>
+    <rate>1.7124</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>LKR</currency>
+    <quantity>100</quantity>
+    <rate>2.0148</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>LVL</currency>
+    <quantity>1</quantity>
+    <rate>4.9206</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MAD</currency>
+    <quantity>10</quantity>
+    <rate>3.0906</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MDL</currency>
+    <quantity>10</quantity>
+    <rate>2.0968</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MGA</currency>
+    <quantity>1000</quantity>
+    <rate>1.1934</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MYR</currency>
+    <quantity>10</quantity>
+    <rate>8.3063</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MKD</currency>
+    <quantity>100</quantity>
+    <rate>5.5829</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MNT</currency>
+    <quantity>1000</quantity>
+    <rate>1.8265</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MXN</currency>
+    <quantity>10</quantity>
+    <rate>2.0444</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>MZN</currency>
+    <quantity>100</quantity>
+    <rate>8.6736</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>NOK</currency>
+    <quantity>10</quantity>
+    <rate>4.5308</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>NZD</currency>
+    <quantity>1</quantity>
+    <rate>2.0858</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>PAB</currency>
+    <quantity>1</quantity>
+    <rate>2.5891</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>PEN</currency>
+    <quantity>10</quantity>
+    <rate>9.4665</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>PHP</currency>
+    <quantity>100</quantity>
+    <rate>6.0436</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>PKR</currency>
+    <quantity>100</quantity>
+    <rate>2.6286</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>PLN</currency>
+    <quantity>10</quantity>
+    <rate>8.1505</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>QAR</currency>
+    <quantity>10</quantity>
+    <rate>7.1099</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>RON</currency>
+    <quantity>10</quantity>
+    <rate>7.7670</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>RSD</currency>
+    <quantity>100</quantity>
+    <rate>3.0301</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>RUB</currency>
+    <quantity>100</quantity>
+    <rate>8.1855</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>SAR</currency>
+    <quantity>10</quantity>
+    <rate>6.9039</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>SEK</currency>
+    <quantity>10</quantity>
+    <rate>4.0172</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>SGD</currency>
+    <quantity>1</quantity>
+    <rate>2.0678</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>SYP</currency>
+    <quantity>100</quantity>
+    <rate>2.5997</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>THB</currency>
+    <quantity>100</quantity>
+    <rate>8.4749</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>TJS</currency>
+    <quantity>10</quantity>
+    <rate>5.4391</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>TMT</currency>
+    <quantity>10</quantity>
+    <rate>9.1069</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>TND</currency>
+    <quantity>1</quantity>
+    <rate>1.5967</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>TRY</currency>
+    <quantity>1</quantity>
+    <rate>1.3878</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>TWD</currency>
+    <quantity>100</quantity>
+    <rate>8.6725</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>TZS</currency>
+    <quantity>1000</quantity>
+    <rate>1.5806</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>UAH</currency>
+    <quantity>10</quantity>
+    <rate>3.1797</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>UYU</currency>
+    <quantity>10</quantity>
+    <rate>1.2541</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>USD</currency>
+    <quantity>1</quantity>
+    <rate>2.5917</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>UZS</currency>
+    <quantity>1000</quantity>
+    <rate>1.2373</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>VEF</currency>
+    <quantity>10</quantity>
+    <rate>4.1148</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>VND</currency>
+    <quantity>10000</quantity>
+    <rate>1.2327</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>XAF</currency>
+    <quantity>1000</quantity>
+    <rate>5.2611</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>XDR</currency>
+    <quantity>1</quantity>
+    <rate>3.9508</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>XOF</currency>
+    <quantity>1000</quantity>
+    <rate>5.2468</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2013.06.18</date>
+    <currency>ZAR</currency>
+    <quantity>10</quantity>
+    <rate>2.6184</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+</ExchangeRates>

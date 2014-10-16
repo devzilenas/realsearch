@@ -1,0 +1,33 @@
+                   API for Real Search
+
+To use API you need an account. See help "How to create an account".
+
+To use API put your API key to api/config.inc.php in ConfigApi3::MY_API_KEY.
+
+How to start:
+	- to use an api get api_key (see "How to get API key").
+
+How to get API key:
+	- login,
+	- go to your account page,
+	- find and copy your API key.
+
+How to use API:
+	- download api files,
+	- extract zipped files to your PHP projects directory,
+	- put your API key to config.class.php,
+	- include api.php in your PHP project.
+
+API contains:
+	- main API file     : api.php,
+	- configuration file: config.class.php
+
+What are available API functions:
+	- see available API functions in api.php ("How to use API").
+
+How to identify your real:
+	- you can identify your real by supplying attribute "my_real_id" with value.
+
+What pictures are accepted:
+	- only jpeg pictures are accepted.
+
